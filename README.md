@@ -1,6 +1,6 @@
 # Students-Attendance-management-System-JAVA.
 
-Hi! This is a Java based project for students attendance management. the programme uses files as data-base and Swing for GUI. The code is properly commented and understandable. 
+Hi! This is a Java based project for students attendance management. the programme uses files as data-base and Swing for GUI.
 
 ## Installing Plugins
 For the Editing the GUI using Windows builder is suggested. 
